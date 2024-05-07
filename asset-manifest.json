@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/todo_project/static/css/main.492d5152.css",
+    "main.js": "/todo_project/static/js/main.88f70fb2.js",
+    "static/js/787.102c3424.chunk.js": "/todo_project/static/js/787.102c3424.chunk.js",
+    "static/media/delete.svg": "/todo_project/static/media/delete.7c228be695c11f912732b47784104350.svg",
+    "index.html": "/todo_project/index.html",
+    "static/media/revert.svg": "/todo_project/static/media/revert.74d214422cba601d0914891eccdbe4ef.svg",
+    "static/media/plus.svg": "/todo_project/static/media/plus.19bbb341fb5456e964a1569924f69873.svg",
+    "static/media/tick-green.svg": "/todo_project/static/media/tick-green.b01db653d28ca6c03db027cb8c88498d.svg",
+    "main.492d5152.css.map": "/todo_project/static/css/main.492d5152.css.map",
+    "main.88f70fb2.js.map": "/todo_project/static/js/main.88f70fb2.js.map",
+    "787.102c3424.chunk.js.map": "/todo_project/static/js/787.102c3424.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.492d5152.css",
+    "static/js/main.88f70fb2.js"
+  ]
+}
